@@ -1,3 +1,6 @@
-cni:v3.32.0
-node:v3.32.0
-kube-controllers:v3.32.0
+quay.io/calico/cni:v3.32.0
+quay.io/calico/node:v3.32.0
+quay.io/calico/kube-controllers:v3.32.0
+docker.io/calico/cni:v3.30.7
+docker.io/calico/node:v3.30.7
+docker.io/calico/kube-controllers:v3.30.7
