@@ -1,5 +1,4 @@
-
-node:v3.31.5
-kube-controllers:v3.31.5
-cni:v3.31.5
-typha:v3.31.5
+cni:v3.32.0
+node:v3.32.0
+kube-controllers:v3.32.0
+typha:v3.32.0
