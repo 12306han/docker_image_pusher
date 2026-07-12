@@ -1,1 +1,1 @@
-dhi.io/mysql:9
+quay.io/calico/node:v3.32.0
