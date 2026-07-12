@@ -1,1 +1,1 @@
-quay.io/calico/node:v3.32.0
+docker pull nginx:1.30.3-trixie-perl
