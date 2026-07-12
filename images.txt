@@ -1,1 +1,9 @@
 grafana/grafana:13.0.3
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/busybox:1.28.4
+registry.cn-shanghai.aliyuncs.com/image_lqkhn/pause:3.6
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/pause:3.10
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/nginx:1.27.1
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/redis:7.2.5
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/grafana:12.1.1
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/prometheus:v3.5.0
+registry.cn-shanghai.aliyuncs.com/aliyun_lqkhn/mariadb:11.4.5-debian-12-r12
