@@ -1,1 +1,1 @@
-dhi.io/grafana:13
+grafana:13
