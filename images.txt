@@ -1,1 +1,1 @@
-dhi.io/prometheus:3.13
+dhi.io/mysql:9
