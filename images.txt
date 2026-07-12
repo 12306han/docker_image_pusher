@@ -1,1 +1,1 @@
-grafana:13
+ubuntu/prometheus:3.11-26.04_stable
